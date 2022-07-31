@@ -4,4 +4,4 @@
 
 Designed by James Weichert
 
-<img src="./data6.png" style="width50%; margin:auto; display:block"/>
+<img src="./data6.png" style="width:50%; margin:auto; display:block"/>
