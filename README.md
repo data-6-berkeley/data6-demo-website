@@ -14,4 +14,6 @@ Designed by James Weichert
 
 If you haven't noticed already, James **loves** Waffle House.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V6DOZ_Lb-S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+<iframe style="display:block; margin:auto" width="560" height="315" src="https://www.youtube.com/embed/V6DOZ_Lb-S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
