@@ -2,7 +2,7 @@
 
 # Example Website
 
-## Data 6 Summer 2022
+## Data 6 Summer 2023
 
 Designed by James Weichert
 
